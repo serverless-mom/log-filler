@@ -1,0 +1,15 @@
+{
+  "name": "logger-demo",
+  "version": "1.0.0",
+  "description": "logs a bunch of lines to console.log, using the apache logging format",
+  "main": "logfiller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logging",
+    "demo"
+  ],
+  "author": "Toby Fee",
+  "license": "ISC"
+}
