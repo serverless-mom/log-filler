@@ -3,7 +3,7 @@ const fs = require('fs');
 
 
 const readInterface = readline.createInterface({
-    input: fs.createReadStream('short_log'),
+    input: fs.createReadStream('time_free'),
     output: process.stdout,
     console: false
 });
